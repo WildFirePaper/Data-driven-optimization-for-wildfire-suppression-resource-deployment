@@ -13,7 +13,7 @@ To support reproducibility while respecting these restrictions, we provide:
 
 The provided example enables users to reproduce the computational workflow and verify the integration between the prediction, transient queueing, and optimization modules.
 
-```
+
 
 ## Running the Pipeline
 
