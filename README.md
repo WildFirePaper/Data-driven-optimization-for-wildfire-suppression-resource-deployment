@@ -17,7 +17,7 @@ The provided example enables users to reproduce the computational workflow and v
 
 ## Running the Pipeline
 
-1. Download the pretrained models from the shared storage link below and upload them in your directory.
+1. Download the pretrained models from the shared storage link below and upload them in your directory (we recommend to use Google Colab).
 
 2. Open and run:
 
