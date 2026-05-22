@@ -27,9 +27,8 @@ Data_Code_Pipeline.ipynb
 
 3. The notebook executes the full workflow for the provided sample date instance, including:
 
-   * Demand prediction
-   * Queueing calculations
-   * Optimization-based resource deployment
+   * Prediction
+   * Optimization of resource deployment
 
 ## Pretrained Models
 
