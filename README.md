@@ -44,7 +44,7 @@ Data_Code_Pipeline.ipynb
 
 The pretrained models can be downloaded from:
 
-[MODEL_LINK_HERE]
+[[MODEL_LINK_HERE](https://drive.google.com/drive/folders/139fXmXd2cQf4AXN6efnmEAOjhjTdzp3_?usp=drive_link)]
 
 After downloading, place the files in:
 
