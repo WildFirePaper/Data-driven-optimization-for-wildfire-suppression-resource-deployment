@@ -1,7 +1,5 @@
 # Data-driven-optimization-for-wildfire-suppression-resource-deployment
 
-# Wildfire Suppression Resource Deployment – Code Repository
-
 ## Data Availability
 
 The real wildfire data used in this study cannot be publicly shared due to data privacy and confidentiality restrictions associated with the collaborating organization.
