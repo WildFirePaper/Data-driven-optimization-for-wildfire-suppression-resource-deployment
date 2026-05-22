@@ -13,15 +13,6 @@ To support reproducibility while respecting these restrictions, we provide:
 
 The provided example enables users to reproduce the computational workflow and verify the integration between the prediction, transient queueing, and optimization modules.
 
-## Repository Structure
-
-```text
-forecasting/
-queueing/
-optimization/
-models/
-sample_instance/
-results/
 ```
 
 ## Running the Pipeline
