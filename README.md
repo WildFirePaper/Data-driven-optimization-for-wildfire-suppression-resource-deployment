@@ -44,8 +44,7 @@ models/
 
 ## Notes
 
-* The provided example is intended solely for piple analysis and demonstration purposes.
 * The operational wildfire dataset used in the paper is confidential and therefore not included in this repository.
-* The repository contains all necessary code to reproduce the computational framework.
+* The provided example is intended solely for piple analysis and demonstration purposes.
 * To run the optimization, you need a valid Gurobi license. 
 * The computations involved in Figure 9 are presented in full detail.
